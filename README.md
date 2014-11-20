@@ -95,68 +95,69 @@ Example code:
 
 ## console output:
 
-``
-created at Thu Nov 20 01:08:04 2014
-2014-11-20 01:08:04.575 FP[27629:2280275] Saved object [{"numberOfSongs":2,"id":"UDfoK5l\/AAA","className":"TopBands","bandName":"the mud besiegers","hometown":"New York","createdAt":"Thu Nov 20 01:08:04 2014"}] 
-2014-11-20 01:08:04.576 FP[27629:2280275] Saved object [{"id":"EFrnK5l\/AAA","className":"GameScore","score":1337,"cheatMode":false,"playerName":"Sean Plott","createdAt":"Thu Nov 20 01:08:04 2014"}] 
-2014-11-20 01:08:06.511 FP[27629:2280275] object by id query complete <FPObject: 0x7f992bd56a00>
-2014-11-20 01:08:06.511 FP[27629:2280275] name (
-    "Sean Plott"
-) score (
-    1337
-)
-2014-11-20 01:08:06.511 FP[27629:2280275] multiple objects query complete: found 4 object(s)
-2014-11-20 01:08:06.511 FP[27629:2280275] object: (
-    "Sean Plott"
-) - (
-    1337
-)
-2014-11-20 01:08:06.511 FP[27629:2280275] object: (
-    "Sean Plott"
-) - (
-    1337
-)
-2014-11-20 01:08:06.511 FP[27629:2280275] object: (
-    "Sean Plott"
-) - (null)
-2014-11-20 01:08:06.511 FP[27629:2280275] object: (
-    "Sean Plott"
-) - (
-    1337
-)
-2014-11-20 01:08:06.511 FP[27629:2280275] multiple objects query complete: found 3 object(s)
-2014-11-20 01:08:06.511 FP[27629:2280275] object: (
-    "the mud besiegers"
-) - (
-    7
-)
-2014-11-20 01:08:06.512 FP[27629:2280275] object: (
-    "the mud besiegers"
-) - (
-    0
-)
-2014-11-20 01:08:06.512 FP[27629:2280275] object: (
-    "the mud besiegers"
-) - (
-    2
-)
-2014-11-20 01:08:06.512 FP[27629:2280275] multiple objects query complete: found 4 object(s)
-2014-11-20 01:08:06.512 FP[27629:2280275] object: (
-    "Sean Plott"
-) - (
-    1337
-)
-2014-11-20 01:08:06.512 FP[27629:2280275] object: (
-    "Sean Plott"
-) - (
-    1337
-)
-2014-11-20 01:08:06.512 FP[27629:2280275] object: (
-    "Sean Plott"
-) - (null)
-2014-11-20 01:08:06.512 FP[27629:2280275] object: (
-    "Sean Plott"
-) - (
-    1337
-)
+`
+    created at Thu Nov 20 01:08:04 2014
+    2014-11-20 01:08:04.575 FP[27629:2280275] Saved object [{"numberOfSongs":2,"id":"UDfoK5l\/AAA","className":"TopBands","bandName":"the mud besiegers","hometown":"New York","createdAt":"Thu Nov 20 01:08:04 2014"}] 
+    2014-11-20 01:08:04.576 FP[27629:2280275] Saved object [{"id":"EFrnK5l\/AAA","className":"GameScore","score":1337,"cheatMode":false,"playerName":"Sean Plott","createdAt":"Thu Nov 20 01:08:04 2014"}] 
+    2014-11-20 01:08:06.511 FP[27629:2280275] object by id query complete <FPObject: 0x7f992bd56a00>
+    2014-11-20 01:08:06.511 FP[27629:2280275] name (
+        "Sean Plott"
+    ) score (
+        1337
+    )
+    2014-11-20 01:08:06.511 FP[27629:2280275] multiple objects query complete: found 4 object(s)
+    2014-11-20 01:08:06.511 FP[27629:2280275] object: (
+        "Sean Plott"
+    ) - (
+        1337
+    )
+    2014-11-20 01:08:06.511 FP[27629:2280275] object: (
+        "Sean Plott"
+    ) - (
+        1337
+    )
+    2014-11-20 01:08:06.511 FP[27629:2280275] object: (
+        "Sean Plott"
+    ) - (null)
+    2014-11-20 01:08:06.511 FP[27629:2280275] object: (
+        "Sean Plott"
+    ) - (
+        1337
+    )
+    2014-11-20 01:08:06.511 FP[27629:2280275] multiple objects query complete: found 3 object(s)
+    2014-11-20 01:08:06.511 FP[27629:2280275] object: (
+        "the mud besiegers"
+    ) - (
+        7
+    )
+    2014-11-20 01:08:06.512 FP[27629:2280275] object: (
+        "the mud besiegers"
+    ) - (
+        0
+    )
+    2014-11-20 01:08:06.512 FP[27629:2280275] object: (
+        "the mud besiegers"
+    ) - (
+        2
+    )
+    2014-11-20 01:08:06.512 FP[27629:2280275] multiple objects query complete: found 4 object(s)
+    2014-11-20 01:08:06.512 FP[27629:2280275] object: (
+        "Sean Plott"
+    ) - (
+        1337
+    )
+    2014-11-20 01:08:06.512 FP[27629:2280275] object: (
+        "Sean Plott"
+    ) - (
+        1337
+    )
+    2014-11-20 01:08:06.512 FP[27629:2280275] object: (
+        "Sean Plott"
+    ) - (null)
+    2014-11-20 01:08:06.512 FP[27629:2280275] object: (
+        "Sean Plott"
+    ) - (
+        1337
+    )
 
+`
