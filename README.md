@@ -90,12 +90,11 @@ Example code:
 }
 
 
-
 ```
 
-## console output:
+## console output: ( after running it a few tines, so duplicate objects exist)
 
-`
+```
         created at Thu Nov 20 01:08:04 2014
         2014-11-20 01:08:04.575 FP[27629:2280275] Saved object [{"numberOfSongs":2,"id":"UDfoK5l\/AAA","className":"TopBands","bandName":"the mud besiegers","hometown":"New York","createdAt":"Thu Nov 20 01:08:04 2014"}] 
         2014-11-20 01:08:04.576 FP[27629:2280275] Saved object [{"id":"EFrnK5l\/AAA","className":"GameScore","score":1337,"cheatMode":false,"playerName":"Sean Plott","createdAt":"Thu Nov 20 01:08:04 2014"}] 
@@ -160,4 +159,4 @@ Example code:
             1337
         )
 
-`
+````
