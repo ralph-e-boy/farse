@@ -3,11 +3,11 @@ farse
 
 ## Farse -- a parse clone
 
-This is a proof of concept project to create a clone of the Parse backend ios client and web services.
+This is a proof of concept project to create a clone of the Parse backend ios sdk  and web services.
 
 The backend is modeled using Apache Solr, and a lightweight clone of the Parse iOS sdk is implemented in Objective C. 
 
-Read doc/farse.pdf for more information.
+Read [doc/farse.pdf](https://github.com/ralph-e-boy/farse/blob/master/doc/Farse.pdf?raw=true) for more information.
 
 Example code:
 
