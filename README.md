@@ -92,7 +92,7 @@ Example code:
 
 ```
 
-## console output: ( after running it a few tines, so duplicate objects exist)
+## console output: ( after running it a few times, so duplicate objects exist)
 
 ```
 created at Thu Nov 20 01:08:04 2014
